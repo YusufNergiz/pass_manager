@@ -1,11 +1,11 @@
 # Pass-Manager
 
-![Main Menu](Images/MainMenu.png)
+  ![Main Menu](Images/MainMenu.PNG)
 
-![Saved Pass](Images/SavedPassword.png)
+![Saved Pass](Images/SavedPassword.PNG)
 
-![Not Saved Pass](Images/NotSavedPassword.png)
+![Not Saved Pass](Images/NotSavedPassword.PNG)
 
-![Save New Password](Images/SaveNewPassword.png)
+![Save New Password](Images/SaveNewPassword.PNG)
 
-![Save To Json File](Images/SavedNewPasswordToJson.png)
+![Save To Json File](Images/SavedNewPasswordToJson.PNG)
